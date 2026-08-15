@@ -1,0 +1,21 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Generated data
+data/feedback.csv
+data/prediction_history.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
