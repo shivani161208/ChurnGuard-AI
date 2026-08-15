@@ -7,7 +7,6 @@ ChurnGuard AI is an end-to-end Machine Learning application designed to predict 
 The system analyzes customer information, predicts the probability of churn, identifies important risk factors, and provides personalized retention recommendations through an interactive Streamlit dashboard.
 
 ---
----
 
 ## 🌐 Live Demo
 
